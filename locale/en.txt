@@ -8,15 +8,33 @@ LinkBehaviour_B57364F8_BA54_31C9_41D1_726C355864DE.source = https://www.rustomje
 
 ## Media
 
+### Floorplan
+
+### Image
+imlevel_75BE2F0B_7B72_7BA8_41C3_A8D21A2AA377.url = media/map_78395066_7414_FB54_41D6_206E659F5AAE_en_0.png
+imlevel_75BE1F0B_7B72_7BA8_41C7_C443745B2904.url = media/map_78395066_7414_FB54_41D6_206E659F5AAE_en_1.png
+imlevel_75BE0F0C_7B72_7BA8_41A0_2865D960B8C4.url = media/map_78395066_7414_FB54_41D6_206E659F5AAE_en_2.png
+
 ### Title
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_1.label = 11floor - 46m_Sky corrected
 panorama_5D859238_57EC_E169_41D2_1F71CF4B3F21.label = 11th floor - 46m
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_2.label = 18floor - 69m_Sky corrected
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_3.label = 18th floor - 69m
 panorama_5DD85235_57ED_617A_41D0_CC3E113361A2.label = 18th floor - 69m
 panorama_5E938C56_54AB_4982_41C8_CE429D4161C3.label = 25th floor - 93m
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_4.label = 25thfloor - 93m
 panorama_5E933021_54AA_D981_41A5_CA2BB1E27F8D.label = 32nd floor - 115m
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_5.label = 32nd floor - 115m
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_6.label = 39th floor - 138m
 panorama_5E9400C6_54AD_3A82_41D4_8CD62D18DC96.label = 39th floor - 138m
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_0.label = 4floor - 24m_sky corrected
 panorama_5C655021_57F9_0E30_41B5_AF1EC720570B.label = 4th floor - 24m
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7.label = Photo Album 4floor - 24m_sky corrected
 panorama_5E94410E_54AD_FB83_41C5_EE9434979D77.label = Terrace - 150m
-panorama_5E945158_54AD_5B8F_41C1_05170CC27800.label = Terrace - 150m (Night)
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_8.label = Terrace - 150m
+panorama_77D1A7B7_7B6D_4B47_41CE_83D610C0EAED.label = Terrace - 150m (Night)
+album_7BDFDDF5_741F_26FA_41D4_2E766503CDE7_7.label = Terrace - 150m (Night)
+map_78395066_7414_FB54_41D6_206E659F5AAE.label = toppng.com-compass-png-980x958
 
 ## Skin
 
